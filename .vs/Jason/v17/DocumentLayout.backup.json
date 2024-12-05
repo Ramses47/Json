@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rams\u00E9s\\Jason\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB354EFF-6132-27F0-BAC9-800B96470706}|Assembly-CSharp.csproj|c:\\users\\rams\u00E9s\\jason\\assets\\codigo\\numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB354EFF-6132-27F0-BAC9-800B96470706}|Assembly-CSharp.csproj|solutionrelative:assets\\codigo\\numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Numeros.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\u00E9s\\Jason\\Assets\\Codigo\\Numeros.cs",
+              "RelativeDocumentMoniker": "Assets\\Codigo\\Numeros.cs",
+              "ToolTip": "C:\\Users\\Rams\u00E9s\\Jason\\Assets\\Codigo\\Numeros.cs",
+              "RelativeToolTip": "Assets\\Codigo\\Numeros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:46:31.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
